@@ -6,8 +6,8 @@ import base64
 
 
 V2RAY_URL = "https://raw.githubusercontent.com/v2fly/fhs-install-v2ray/master/install-release.sh"
-FREE_SERVER_CONFIG_PATH = "./free_server_config.json"
-RESTRICTED_SERVER_CONFIG_PATH = "restricted_server_config.json"
+FREE_SERVER_CONFIG_PATH = "./configs/free_server_config.json"
+RESTRICTED_SERVER_CONFIG_PATH = "./configs/restricted_server_config.json"
 
 
 class Server:
